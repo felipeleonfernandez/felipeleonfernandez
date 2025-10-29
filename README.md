@@ -60,6 +60,3 @@ Web CV: https://felipeleonfernandez.github.io/web-cv/.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-león-fernández)
 [![Web CV](https://img.shields.io/badge/-Web_CV-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://felipeleonfernandez.github.io/web-cv/)
 
----
-
-💡 *"Construyendo plataformas que empoderan a los desarrolladores"*
