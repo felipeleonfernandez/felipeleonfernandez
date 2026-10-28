@@ -5,16 +5,10 @@
 Me considero una persona proactiva, con disposición constante para aprender y afrontar nuevos desafíos. Actualmente los proyectos por los que tengo mayor predilección son los emergentes y donde todo está por construir. Estoy enfocado en la automatización y optimización de procesos, con un especial interés en las herramientas y tecnologías relacionadas con la filosofía DevOps, la construcción de IDPs (Platform Engineering) y los entornos en la nube.
 
 Web CV: https://felipeleonfernandez.github.io/web-cv/.
-# 👋 Hola, soy Felipe León Fernández
 
 ---
 
 ### 🛠️ Stack Tecnológico
-
-#### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 #### Containers & Orchestration
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -40,12 +34,6 @@ Web CV: https://felipeleonfernandez.github.io/web-cv/.
 **Ingeniería Informática** - Universidad Politécnica de Madrid (UPM) *(2017-2021)*
 
 **Administración de Sistemas Informáticos en Red** - FP Grado Superior, Salesianos Atocha *(2015-2017)*
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeleonfernandez&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeleonfernandez&layout=compact&theme=dark&hide_border=true)
 
 ### 🌱 Intereses Actuales
 
